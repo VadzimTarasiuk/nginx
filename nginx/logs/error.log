@@ -1,0 +1,7 @@
+2017/06/01 16:04:54 [emerg] 9153#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/06/01 16:05:30 [error] 9162#0: *1 open() "/home/vadzim_tarasiuk/nginx//html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/06/01 16:05:30 [error] 9162#0: *1 open() "/home/vadzim_tarasiuk/nginx//html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2017/06/01 16:08:09 [error] 9162#0: *2 open() "/home/vadzim_tarasiuk/nginx//html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/06/01 16:08:13 [error] 9162#0: *2 open() "/home/vadzim_tarasiuk/nginx//html/admin" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/06/01 16:08:16 [error] 9162#0: *2 open() "/home/vadzim_tarasiuk/nginx//html/pictures/01.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/06/01 16:08:18 [error] 9162#0: *2 open() "/home/vadzim_tarasiuk/nginx//html/pictures/01.gif" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.gif HTTP/1.1", host: "localhost", referrer: "http://localhost/"
